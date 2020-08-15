@@ -1,6 +1,6 @@
 {
   "version": "V1",
-  "createdAt": "2020-08-15T17:33:49.655Z",
+  "createdAt": "2020-08-15T18:20:56.242Z",
   "palettes": [
     {
       "name": "Croma example palette",
@@ -18,7 +18,7 @@
           "color": "#f0675f"
         }
       ],
-      "createdAt": 1597409621241
+      "createdAt": "2020-08-15T18:12:48.420Z"
     }
   ]
 }
